@@ -1,0 +1,19 @@
+
+w	cpp:S1659	"0Define each identifier in a dedicated statement.(Æù‚ùÿÿÿÿ8ş  ©å1J$93dcd9a4-e1ae-4d21-aad6-c15d6954eb69
+r	cpp:S1659
+"0Define each identifier in a dedicated statement.(”ˆ±¾8ş  ©å1J$096ca72d-91d5-407f-9219-29835359f8a2
+w	cpp:S1659"0Define each identifier in a dedicated statement.(ÅÁ¬Âÿÿÿÿÿ8ş  ©å1J$425bee84-5a1d-4dd1-bbc8-62de95314290
+r	cpp:S1659"0Define each identifier in a dedicated statement.(ÆÓ´£8ÿ  ©å1J$3b3351a3-5782-48ec-8d9b-582dca64c581
+w	cpp:S1659"0Define each identifier in a dedicated statement.(¢Åéôüÿÿÿÿ8ÿ  ©å1J$500a49b9-ac53-46e8-a4b8-8cb129de501d
+r	cpp:S1659"0Define each identifier in a dedicated statement.( Ö¼Ñ8ÿ  ©å1J$6ead8bb9-3a3e-4964-beff-77d1d69fe844
+	cpp:S3490""VUse "=default" instead of the default implementation of this special member functions.(Ñóëıÿÿÿÿ8­ãÊ©å1J$83d06bdb-761a-40c6-9462-0c755ad42418
+r	cpp:S1659o"0Define each identifier in a dedicated statement.(Üáúö8·©è©å1J$a8b387fb-749e-45d7-8275-8b865c1ee546
+h	cpp:S5421r"!Global variables should be const.(”ìÀÃüÿÿÿÿ8­ãÊ©å1J$2cad6579-bfa4-4d68-83e2-652cfd736528
+¡	cpp:S1186‘"YAdd a nested comment explaining why this method is empty, or complete the implementation.(´‹Éşÿÿÿÿ8¹¡İ©å1J$06b576be-02e0-4141-bef7-47c9f19e45e5
+q	cpp:S5817‘")This function should be declared "const".(´‹Éşÿÿÿÿ8¹¡İ©å1J$d9825e74-0cc0-4ec8-a9b7-e68711108cbd
+¢	cpp:S1172‘"ZRemove the unused parameter "newFrame", make it unnamed, or declare it "[[maybe_unused]]".(´‹Éşÿÿÿÿ8¹¡İ©å1J$2e3145da-6120-4a15-b7f3-ee04368630a7
+º	cpp:S3230w"yDo not use the constructor's initializer list for data member "current_timestamp_". Use the in-class initializer instead.(âóÿ;8íìÑ©å1J$140d0dff-8e4b-4d52-8824-027f0384d4da
+Ã	cpp:S3230—"{Do not use the constructor's initializer list for data member "simulation_duration_". Use the in-class initializer instead.(Ì áµúÿÿÿÿ8ÀãÊ©å1J$10185932-6122-49df-82e3-e1f56945c64f
+¿	cpp:S3230—"wDo not use the constructor's initializer list for data member "simulation_time_". Use the in-class initializer instead.(Ì áµúÿÿÿÿ8ÀãÊ©å1J$393f108f-2968-4f65-84d9-7a4fd499ed5e
+ecpp:S125š"Remove the commented out code.(Ÿ®†úÿÿÿÿ8ˆ¨Šªå1J$1ef3e5f3-4d31-484e-af5e-0031964e1ce6
+ecpp:S125¾"Remove the commented out code.(ñı™úşÿÿÿÿ8‰¨Šªå1J$4ccf2ab0-fc75-468e-b294-2fa89c9caa30
